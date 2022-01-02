@@ -1,0 +1,15 @@
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\Compound Interest Calculator.exe
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\Compound Interest Calculator.deps.json
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\Compound Interest Calculator.runtimeconfig.json
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\Compound Interest Calculator.dll
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\ref\Compound Interest Calculator.dll
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\net6.0\Compound Interest Calculator.pdb
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.csproj.AssemblyReference.cache
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.AssemblyInfoInputs.cache
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.AssemblyInfo.cs
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.csproj.CoreCompileInputs.cache
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.dll
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\ref\Compound Interest Calculator.dll
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.pdb
+D:\Portfolio Work\C#\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\net6.0\Compound Interest Calculator.genruntimeconfig.cache
